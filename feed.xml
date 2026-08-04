@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Natura Psa</title>
-    <link href="https://dobowicz.github.io/feed.xml" rel="self" />
-    <link href="https://dobowicz.github.io" />
+    <link href="https://dobowicz.github.io/NaturaPsa/feed.xml" rel="self" />
+    <link href="https://dobowicz.github.io/NaturaPsa" />
     <updated>2026-07-31T07:41:25+02:00</updated>
     <author>
         <name>Patrycja Dobosz</name>
     </author>
-    <id>https://dobowicz.github.io</id>
+    <id>https://dobowicz.github.io/NaturaPsa</id>
 
     <entry>
         <title>Jak dbać o psa – Poradnik dla opiekunów</title>
         <author>
             <name>Patrycja Dobosz</name>
         </author>
-        <link href="https://dobowicz.github.io/blog/jak-dbac-o-psa.html"/>
-        <id>https://dobowicz.github.io/blog/jak-dbac-o-psa.html</id>
+        <link href="https://dobowicz.github.io/NaturaPsa/blog/jak-dbac-o-psa.html"/>
+        <id>https://dobowicz.github.io/NaturaPsa/blog/jak-dbac-o-psa.html</id>
 
         <updated>2024-10-09T12:23:04+02:00</updated>
             <summary type="html">
@@ -26,7 +26,7 @@
         <content type="html">
             <![CDATA[
                 <!-- wp:image {"id":3066,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><figure class="wp-image-3066"><img loading="lazy" src="https://dobowicz.github.io/media/posts/24/jak-dbac-o-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/24/responsive/jak-dbac-o-psa-xs.png 640w ,https://dobowicz.github.io/media/posts/24/responsive/jak-dbac-o-psa-sm.png 768w ,https://dobowicz.github.io/media/posts/24/responsive/jak-dbac-o-psa-md.png 1024w ,https://dobowicz.github.io/media/posts/24/responsive/jak-dbac-o-psa-lg.png 1366w ,https://dobowicz.github.io/media/posts/24/responsive/jak-dbac-o-psa-xl.png 1600w ,https://dobowicz.github.io/media/posts/24/responsive/jak-dbac-o-psa-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-full"><figure class="wp-image-3066"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/24/jak-dbac-o-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/24/responsive/jak-dbac-o-psa-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/24/responsive/jak-dbac-o-psa-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/24/responsive/jak-dbac-o-psa-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/24/responsive/jak-dbac-o-psa-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/24/responsive/jak-dbac-o-psa-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/24/responsive/jak-dbac-o-psa-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -34,7 +34,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:heading {"level":4} -->
-<h4 class="wp-block-heading">1. Zdrowe <a href="https://dobowicz.github.io/blog/patrzeby-psa-2.html" target="_blank" rel="noreferrer noopener">żywienie</a> psa</h4>
+<h4 class="wp-block-heading">1. Zdrowe <a href="https://dobowicz.github.io/NaturaPsa/blog/patrzeby-psa-2.html" target="_blank" rel="noreferrer noopener">żywienie</a> psa</h4>
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
@@ -73,11 +73,11 @@
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li><strong>Długość spaceru</strong> – Dostosuj długość i intensywność spaceru do potrzeb swojego psa. Młody pies będzie potrzebować większej dawki ruchu niż pies w podeszłym wieku. Pamietaj jednak, że spacer nie jest po to, aby "pies się wybiegał", a po to, żeby zaspokoił swoje potrzeby fizjologiczne, <a href="https://dobowicz.github.io/blog/potrzeby-psa-3.html" target="_blank" rel="noreferrer noopener">ekspolacji</a>, ruchu. Może to być również świetna okazja dla wspólnych zabaw czy spotkań z psimi kumplami.</li>
+<li><strong>Długość spaceru</strong> – Dostosuj długość i intensywność spaceru do potrzeb swojego psa. Młody pies będzie potrzebować większej dawki ruchu niż pies w podeszłym wieku. Pamietaj jednak, że spacer nie jest po to, aby "pies się wybiegał", a po to, żeby zaspokoił swoje potrzeby fizjologiczne, <a href="https://dobowicz.github.io/NaturaPsa/blog/potrzeby-psa-3.html" target="_blank" rel="noreferrer noopener">ekspolacji</a>, ruchu. Może to być również świetna okazja dla wspólnych zabaw czy spotkań z psimi kumplami.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong><a href="https://dobowicz.github.io/blog/potrzeby-psa-4.html" target="_blank" rel="noreferrer noopener">Zabawy</a> i sporty</strong> – Wspólne zabawy, takie jak aportowanie, frisbee czy agility, nie tylko dostarczają psu ruchu, ale również wzmacniają więź między Wami. Dobierz aktywność do psa, jego osobowości, predyspozycji i możliwości.</li>
+<li><strong><a href="https://dobowicz.github.io/NaturaPsa/blog/potrzeby-psa-4.html" target="_blank" rel="noreferrer noopener">Zabawy</a> i sporty</strong> – Wspólne zabawy, takie jak aportowanie, frisbee czy agility, nie tylko dostarczają psu ruchu, ale również wzmacniają więź między Wami. Dobierz aktywność do psa, jego osobowości, predyspozycji i możliwości.</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -85,7 +85,7 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li><strong>Zapewnienie potrzeb</strong> - Poza odpowiednimi spacerami i aktywnościami, pamiętaj również o <a href="https://dobowicz.github.io/blog/potrzeby-psa-6.html" target="_blank" rel="noreferrer noopener">socjalizacji</a> swojego psa oraz zapewnieniu mu <a href="https://dobowicz.github.io/blog/potrzeby-psa-7.html" target="_blank" rel="noreferrer noopener">miejsca do odpoczynku</a>.</li>
+<li><strong>Zapewnienie potrzeb</strong> - Poza odpowiednimi spacerami i aktywnościami, pamiętaj również o <a href="https://dobowicz.github.io/NaturaPsa/blog/potrzeby-psa-6.html" target="_blank" rel="noreferrer noopener">socjalizacji</a> swojego psa oraz zapewnieniu mu <a href="https://dobowicz.github.io/NaturaPsa/blog/potrzeby-psa-7.html" target="_blank" rel="noreferrer noopener">miejsca do odpoczynku</a>.</li>
 <!-- /wp:list-item --></ul>
 <!-- /wp:list -->
 
@@ -178,8 +178,8 @@
         <author>
             <name>Patrycja Dobosz</name>
         </author>
-        <link href="https://dobowicz.github.io/blog/zachowanie-a-dieta-psa.html"/>
-        <id>https://dobowicz.github.io/blog/zachowanie-a-dieta-psa.html</id>
+        <link href="https://dobowicz.github.io/NaturaPsa/blog/zachowanie-a-dieta-psa.html"/>
+        <id>https://dobowicz.github.io/NaturaPsa/blog/zachowanie-a-dieta-psa.html</id>
 
         <updated>2023-02-08T14:54:35+01:00</updated>
             <summary type="html">
@@ -198,7 +198,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1421,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><figure class="wp-image-1421"><img loading="lazy" src="https://dobowicz.github.io/media/posts/23/dieta-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/23/responsive/dieta-psa-xs.png 640w ,https://dobowicz.github.io/media/posts/23/responsive/dieta-psa-sm.png 768w ,https://dobowicz.github.io/media/posts/23/responsive/dieta-psa-md.png 1024w ,https://dobowicz.github.io/media/posts/23/responsive/dieta-psa-lg.png 1366w ,https://dobowicz.github.io/media/posts/23/responsive/dieta-psa-xl.png 1600w ,https://dobowicz.github.io/media/posts/23/responsive/dieta-psa-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-1421"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/23/dieta-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/dieta-psa-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/dieta-psa-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/dieta-psa-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/dieta-psa-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/dieta-psa-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/dieta-psa-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -210,7 +210,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1423,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><figure class="wp-image-1423"><img loading="lazy" src="https://dobowicz.github.io/media/posts/23/ilosc-jedzenia-dla-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/23/responsive/ilosc-jedzenia-dla-psa-xs.png 640w ,https://dobowicz.github.io/media/posts/23/responsive/ilosc-jedzenia-dla-psa-sm.png 768w ,https://dobowicz.github.io/media/posts/23/responsive/ilosc-jedzenia-dla-psa-md.png 1024w ,https://dobowicz.github.io/media/posts/23/responsive/ilosc-jedzenia-dla-psa-lg.png 1366w ,https://dobowicz.github.io/media/posts/23/responsive/ilosc-jedzenia-dla-psa-xl.png 1600w ,https://dobowicz.github.io/media/posts/23/responsive/ilosc-jedzenia-dla-psa-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-1423"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/23/ilosc-jedzenia-dla-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/ilosc-jedzenia-dla-psa-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/ilosc-jedzenia-dla-psa-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/ilosc-jedzenia-dla-psa-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/ilosc-jedzenia-dla-psa-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/ilosc-jedzenia-dla-psa-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/ilosc-jedzenia-dla-psa-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -226,7 +226,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1422,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><figure class="wp-image-1422"><img loading="lazy" src="https://dobowicz.github.io/media/posts/23/prawidlowa-dieta-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/23/responsive/prawidlowa-dieta-psa-xs.png 640w ,https://dobowicz.github.io/media/posts/23/responsive/prawidlowa-dieta-psa-sm.png 768w ,https://dobowicz.github.io/media/posts/23/responsive/prawidlowa-dieta-psa-md.png 1024w ,https://dobowicz.github.io/media/posts/23/responsive/prawidlowa-dieta-psa-lg.png 1366w ,https://dobowicz.github.io/media/posts/23/responsive/prawidlowa-dieta-psa-xl.png 1600w ,https://dobowicz.github.io/media/posts/23/responsive/prawidlowa-dieta-psa-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-1422"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/23/prawidlowa-dieta-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/prawidlowa-dieta-psa-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/prawidlowa-dieta-psa-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/prawidlowa-dieta-psa-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/prawidlowa-dieta-psa-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/prawidlowa-dieta-psa-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/prawidlowa-dieta-psa-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -238,7 +238,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1424,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><figure class="wp-image-1424"><img loading="lazy" src="https://dobowicz.github.io/media/posts/23/jaka-karma-dla-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/23/responsive/jaka-karma-dla-psa-xs.png 640w ,https://dobowicz.github.io/media/posts/23/responsive/jaka-karma-dla-psa-sm.png 768w ,https://dobowicz.github.io/media/posts/23/responsive/jaka-karma-dla-psa-md.png 1024w ,https://dobowicz.github.io/media/posts/23/responsive/jaka-karma-dla-psa-lg.png 1366w ,https://dobowicz.github.io/media/posts/23/responsive/jaka-karma-dla-psa-xl.png 1600w ,https://dobowicz.github.io/media/posts/23/responsive/jaka-karma-dla-psa-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-1424"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/23/jaka-karma-dla-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/jaka-karma-dla-psa-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/jaka-karma-dla-psa-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/jaka-karma-dla-psa-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/jaka-karma-dla-psa-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/jaka-karma-dla-psa-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/jaka-karma-dla-psa-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -254,7 +254,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1425,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><figure class="wp-image-1425"><img loading="lazy" src="https://dobowicz.github.io/media/posts/23/gryzaki-dla-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/23/responsive/gryzaki-dla-psa-xs.png 640w ,https://dobowicz.github.io/media/posts/23/responsive/gryzaki-dla-psa-sm.png 768w ,https://dobowicz.github.io/media/posts/23/responsive/gryzaki-dla-psa-md.png 1024w ,https://dobowicz.github.io/media/posts/23/responsive/gryzaki-dla-psa-lg.png 1366w ,https://dobowicz.github.io/media/posts/23/responsive/gryzaki-dla-psa-xl.png 1600w ,https://dobowicz.github.io/media/posts/23/responsive/gryzaki-dla-psa-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-1425"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/23/gryzaki-dla-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/gryzaki-dla-psa-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/gryzaki-dla-psa-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/gryzaki-dla-psa-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/gryzaki-dla-psa-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/gryzaki-dla-psa-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/gryzaki-dla-psa-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -262,7 +262,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Jak pisałam w poprzednich artykułach <a href="https://dobowicz.github.io/blog/patrzeby-psa-2.html" target="_blank" rel="noreferrer noopener">o jedzeniu</a> oraz <a href="https://dobowicz.github.io/blog/potrzeby-psa-5.html" target="_blank" rel="noreferrer noopener">o współpracy z człowiekiem</a> żucie, gryzienie, memłanie oraz zdobywanie jedzenia to jedne z najważniejszych, podstawowych potrzeb psa. Warto pamiętać o tym, że to, co podajemy psu podczas nauki posłuszeństwa, nauki nowych sztuczek, w nagrodę przy nauce nowych zachowań jest równie ważne, jak to, co wkładamy do psiej miski. <a href="https://fera.pl/przysmakidlapsa/" target="_blank" rel="noreferrer noopener">Przysmaki dla psa</a> są uzupełnieniem diety naszych czworonogów, zatem i one powinny być dobrej jakości. Podobnie wygląda sprawa z jadalnymi gryzakami. Im bardziej naturalne, im mniej przetworzone, tym lepiej. Jedzenie naturalnych gryzaków pomaga psu rozładować stres, zapewnić potrzebę gryzienia, zająć psa fajną aktywnością.</p>
+<p>Jak pisałam w poprzednich artykułach <a href="https://dobowicz.github.io/NaturaPsa/blog/patrzeby-psa-2.html" target="_blank" rel="noreferrer noopener">o jedzeniu</a> oraz <a href="https://dobowicz.github.io/NaturaPsa/blog/potrzeby-psa-5.html" target="_blank" rel="noreferrer noopener">o współpracy z człowiekiem</a> żucie, gryzienie, memłanie oraz zdobywanie jedzenia to jedne z najważniejszych, podstawowych potrzeb psa. Warto pamiętać o tym, że to, co podajemy psu podczas nauki posłuszeństwa, nauki nowych sztuczek, w nagrodę przy nauce nowych zachowań jest równie ważne, jak to, co wkładamy do psiej miski. <a href="https://fera.pl/przysmakidlapsa/" target="_blank" rel="noreferrer noopener">Przysmaki dla psa</a> są uzupełnieniem diety naszych czworonogów, zatem i one powinny być dobrej jakości. Podobnie wygląda sprawa z jadalnymi gryzakami. Im bardziej naturalne, im mniej przetworzone, tym lepiej. Jedzenie naturalnych gryzaków pomaga psu rozładować stres, zapewnić potrzebę gryzienia, zająć psa fajną aktywnością.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -270,7 +270,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1426,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><figure class="wp-image-1426"><img loading="lazy" src="https://dobowicz.github.io/media/posts/23/dieta-a-zachowanie-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/23/responsive/dieta-a-zachowanie-psa-xs.png 640w ,https://dobowicz.github.io/media/posts/23/responsive/dieta-a-zachowanie-psa-sm.png 768w ,https://dobowicz.github.io/media/posts/23/responsive/dieta-a-zachowanie-psa-md.png 1024w ,https://dobowicz.github.io/media/posts/23/responsive/dieta-a-zachowanie-psa-lg.png 1366w ,https://dobowicz.github.io/media/posts/23/responsive/dieta-a-zachowanie-psa-xl.png 1600w ,https://dobowicz.github.io/media/posts/23/responsive/dieta-a-zachowanie-psa-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-1426"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/23/dieta-a-zachowanie-psa.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/dieta-a-zachowanie-psa-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/dieta-a-zachowanie-psa-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/dieta-a-zachowanie-psa-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/dieta-a-zachowanie-psa-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/dieta-a-zachowanie-psa-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/23/responsive/dieta-a-zachowanie-psa-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
 
 <!-- wp:heading {"level":3} -->
@@ -300,22 +300,22 @@
         <author>
             <name>Patrycja Dobosz</name>
         </author>
-        <link href="https://dobowicz.github.io/blog/oferuj-nie-narzucaj.html"/>
-        <id>https://dobowicz.github.io/blog/oferuj-nie-narzucaj.html</id>
-        <media:content url="https://dobowicz.github.io/media/posts/22/praca-z-psem.png" medium="image" />
+        <link href="https://dobowicz.github.io/NaturaPsa/blog/oferuj-nie-narzucaj.html"/>
+        <id>https://dobowicz.github.io/NaturaPsa/blog/oferuj-nie-narzucaj.html</id>
+        <media:content url="https://dobowicz.github.io/NaturaPsa/media/posts/22/praca-z-psem.png" medium="image" />
 
         <updated>2022-08-21T13:17:55+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://dobowicz.github.io/media/posts/22/praca-z-psem.png" alt="" />
+                        <img src="https://dobowicz.github.io/NaturaPsa/media/posts/22/praca-z-psem.png" alt="" />
                     Czy zastanawiałeś/aś się kiedyś, czy głaski podczas spaceru albo kontakt z innymi psami są naprawdę tym, czego Twój pies chce w danym momencie? Jeśli zależy Ci na dobrostanie swojego pupila, warto zastanowić się nad tym, jak dawać mu wybór i przestrzeń. Wedłu zasady "Oferuj, nie narzucaj", w tym artykule poznasz kilka wskazówek, jak możesz oferować psu wsparcie, zamiast narzucać mu swoje działania. Daj psu możliwość wyboru Kiedy wchodzisz w interakcję&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://dobowicz.github.io/media/posts/22/praca-z-psem.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://dobowicz.github.io/NaturaPsa/media/posts/22/praca-z-psem.png" class="type:primaryImage" alt="" /></p>
                 <!-- wp:paragraph -->
-<p>Czy zastanawiałeś/aś się kiedyś, czy głaski podczas spaceru albo kontakt z innymi psami są naprawdę tym, czego Twój pies chce w danym momencie? Jeśli zależy Ci na <a href="https://dobowicz.github.io/blog/jak-dbac-o-psa.html" target="_blank" rel="noreferrer noopener">dobrostanie swojego pupila</a>, warto zastanowić się nad tym, jak dawać mu wybór i przestrzeń. Wedłu zasady "Oferuj, nie narzucaj", w tym artykule poznasz kilka wskazówek, jak możesz oferować psu wsparcie, zamiast narzucać mu swoje działania. </p>
+<p>Czy zastanawiałeś/aś się kiedyś, czy głaski podczas spaceru albo kontakt z innymi psami są naprawdę tym, czego Twój pies chce w danym momencie? Jeśli zależy Ci na <a href="https://dobowicz.github.io/NaturaPsa/blog/jak-dbac-o-psa.html" target="_blank" rel="noreferrer noopener">dobrostanie swojego pupila</a>, warto zastanowić się nad tym, jak dawać mu wybór i przestrzeń. Wedłu zasady "Oferuj, nie narzucaj", w tym artykule poznasz kilka wskazówek, jak możesz oferować psu wsparcie, zamiast narzucać mu swoje działania. </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -331,7 +331,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><strong><a href="https://dobowicz.github.io/blog/potrzeby-psa-5.html" target="_blank" rel="noreferrer noopener">Trening</a> z przerwami</strong><br>W czasie treningu, co jakiś czas zrób przerwę. Na przykład, odrzuć smakołyk i zobacz, czy pies chce wrócić do ćwiczeń. Jeśli kontynuuje z entuzjazmem – świetnie, jeśli jednak węszy, rozgląda się lub zaczyna wykazywać sygnały stresu (jak oblizywanie się, ziewanie, dyszenie), zakończ trening. Ważne jest, aby pies czuł się komfortowo i nie był zmuszany do ćwiczeń, gdy jest zestresowany.</p>
+<p><strong><a href="https://dobowicz.github.io/NaturaPsa/blog/potrzeby-psa-5.html" target="_blank" rel="noreferrer noopener">Trening</a> z przerwami</strong><br>W czasie treningu, co jakiś czas zrób przerwę. Na przykład, odrzuć smakołyk i zobacz, czy pies chce wrócić do ćwiczeń. Jeśli kontynuuje z entuzjazmem – świetnie, jeśli jednak węszy, rozgląda się lub zaczyna wykazywać sygnały stresu (jak oblizywanie się, ziewanie, dyszenie), zakończ trening. Ważne jest, aby pies czuł się komfortowo i nie był zmuszany do ćwiczeń, gdy jest zestresowany.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -351,11 +351,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>To tylko kilka codziennych przykładów, w których często nieświadomie narzucamy psu coś, co wydaje nam się najlepsze, a niekoniecznie takie jest. Nieświadomość ze strony ludzi jest jedną z najczęstszych przyczyn problemów behawioralnych naszych czworonogów. Oferuj swojemu psu kontakt, aktywności czy wsparcie, ale nie zmuszaj go do nich, nie narzucaj ich. Upewnij się, że jest to dla niego okej w danej sytuacji, w danym momencie. Obserwuj uważnie i słuchaj swojego psa. Dzięki temu Wasza więź będzie jeszcze piękniejsza <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/media/posts/22/1f49a.png" alt="💚" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/22/responsive/1f49a-xs.png 640w ,https://dobowicz.github.io/media/posts/22/responsive/1f49a-sm.png 768w ,https://dobowicz.github.io/media/posts/22/responsive/1f49a-md.png 1024w ,https://dobowicz.github.io/media/posts/22/responsive/1f49a-lg.png 1366w ,https://dobowicz.github.io/media/posts/22/responsive/1f49a-xl.png 1600w ,https://dobowicz.github.io/media/posts/22/responsive/1f49a-2xl.png 1920w"></p>
+<p>To tylko kilka codziennych przykładów, w których często nieświadomie narzucamy psu coś, co wydaje nam się najlepsze, a niekoniecznie takie jest. Nieświadomość ze strony ludzi jest jedną z najczęstszych przyczyn problemów behawioralnych naszych czworonogów. Oferuj swojemu psu kontakt, aktywności czy wsparcie, ale nie zmuszaj go do nich, nie narzucaj ich. Upewnij się, że jest to dla niego okej w danej sytuacji, w danym momencie. Obserwuj uważnie i słuchaj swojego psa. Dzięki temu Wasza więź będzie jeszcze piękniejsza <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/NaturaPsa/media/posts/22/1f49a.png" alt="💚" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/22/responsive/1f49a-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/22/responsive/1f49a-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/22/responsive/1f49a-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/22/responsive/1f49a-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/22/responsive/1f49a-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/22/responsive/1f49a-2xl.png 1920w"></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":3072,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><figure class="wp-image-3072"><img loading="lazy" src="https://dobowicz.github.io/media/posts/22/oferuj-nie-narzucaj.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/22/responsive/oferuj-nie-narzucaj-xs.png 640w ,https://dobowicz.github.io/media/posts/22/responsive/oferuj-nie-narzucaj-sm.png 768w ,https://dobowicz.github.io/media/posts/22/responsive/oferuj-nie-narzucaj-md.png 1024w ,https://dobowicz.github.io/media/posts/22/responsive/oferuj-nie-narzucaj-lg.png 1366w ,https://dobowicz.github.io/media/posts/22/responsive/oferuj-nie-narzucaj-xl.png 1600w ,https://dobowicz.github.io/media/posts/22/responsive/oferuj-nie-narzucaj-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-full"><figure class="wp-image-3072"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/22/oferuj-nie-narzucaj.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/22/responsive/oferuj-nie-narzucaj-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/22/responsive/oferuj-nie-narzucaj-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/22/responsive/oferuj-nie-narzucaj-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/22/responsive/oferuj-nie-narzucaj-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/22/responsive/oferuj-nie-narzucaj-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/22/responsive/oferuj-nie-narzucaj-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
             ]]>
         </content>
@@ -365,26 +365,26 @@
         <author>
             <name>Patrycja Dobosz</name>
         </author>
-        <link href="https://dobowicz.github.io/blog/relacja-opiekun-pies.html"/>
-        <id>https://dobowicz.github.io/blog/relacja-opiekun-pies.html</id>
-        <media:content url="https://dobowicz.github.io/media/posts/21/relacja-z-psem.png" medium="image" />
+        <link href="https://dobowicz.github.io/NaturaPsa/blog/relacja-opiekun-pies.html"/>
+        <id>https://dobowicz.github.io/NaturaPsa/blog/relacja-opiekun-pies.html</id>
+        <media:content url="https://dobowicz.github.io/NaturaPsa/media/posts/21/relacja-z-psem.png" medium="image" />
 
         <updated>2022-08-21T13:04:16+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://dobowicz.github.io/media/posts/21/relacja-z-psem.png" alt="" />
+                        <img src="https://dobowicz.github.io/NaturaPsa/media/posts/21/relacja-z-psem.png" alt="" />
                     Relacja opiekun - pies Teoria hierarchii stada, konieczności bycia właścicielem alfa w psio-ludzkim teamie, bo inaczej pies cię pożre, została już dawno obalona Zgodnie z najnowszą wiedzą, przyjmuje się, że relacja pies-opiekun najbardziej przypomina relację dziecko-rodzic. Nie mam tu na myśli wożenia psów w wózkach i ubierania czapeczek czy bucików (bez wskazania medycznego). Mam tu na myśli opiekę, zapewnienie potrzeb, relację opartą na zaufaniu i zrozumieniu Wielu opiekunów opisuje swoją&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://dobowicz.github.io/media/posts/21/relacja-z-psem.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://dobowicz.github.io/NaturaPsa/media/posts/21/relacja-z-psem.png" class="type:primaryImage" alt="" /></p>
                 <!-- wp:paragraph -->
 <p>Relacja opiekun - pies</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Teoria hierarchii stada, konieczności bycia właścicielem alfa w psio-ludzkim teamie, bo inaczej pies cię pożre, została już dawno obalona <img height="16" width="16" alt="🙅" src="https://dobowicz.github.io/media/posts/21/1f645.png" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/21/responsive/1f645-xs.png 640w ,https://dobowicz.github.io/media/posts/21/responsive/1f645-sm.png 768w ,https://dobowicz.github.io/media/posts/21/responsive/1f645-md.png 1024w ,https://dobowicz.github.io/media/posts/21/responsive/1f645-lg.png 1366w ,https://dobowicz.github.io/media/posts/21/responsive/1f645-xl.png 1600w ,https://dobowicz.github.io/media/posts/21/responsive/1f645-2xl.png 1920w"> Zgodnie z najnowszą wiedzą, przyjmuje się, że relacja pies-opiekun najbardziej przypomina relację dziecko-rodzic. Nie mam tu na myśli wożenia psów w wózkach i ubierania czapeczek czy bucików (bez wskazania medycznego). Mam tu na myśli opiekę, zapewnienie potrzeb, relację opartą na zaufaniu i zrozumieniu <img loading="lazy" height="16" width="16" alt="🌱" src="https://dobowicz.github.io/media/posts/21/1f331.png" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/21/responsive/1f331-xs.png 640w ,https://dobowicz.github.io/media/posts/21/responsive/1f331-sm.png 768w ,https://dobowicz.github.io/media/posts/21/responsive/1f331-md.png 1024w ,https://dobowicz.github.io/media/posts/21/responsive/1f331-lg.png 1366w ,https://dobowicz.github.io/media/posts/21/responsive/1f331-xl.png 1600w ,https://dobowicz.github.io/media/posts/21/responsive/1f331-2xl.png 1920w"></p>
+<p>Teoria hierarchii stada, konieczności bycia właścicielem alfa w psio-ludzkim teamie, bo inaczej pies cię pożre, została już dawno obalona <img height="16" width="16" alt="🙅" src="https://dobowicz.github.io/NaturaPsa/media/posts/21/1f645.png" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f645-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f645-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f645-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f645-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f645-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f645-2xl.png 1920w"> Zgodnie z najnowszą wiedzą, przyjmuje się, że relacja pies-opiekun najbardziej przypomina relację dziecko-rodzic. Nie mam tu na myśli wożenia psów w wózkach i ubierania czapeczek czy bucików (bez wskazania medycznego). Mam tu na myśli opiekę, zapewnienie potrzeb, relację opartą na zaufaniu i zrozumieniu <img loading="lazy" height="16" width="16" alt="🌱" src="https://dobowicz.github.io/NaturaPsa/media/posts/21/1f331.png" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f331-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f331-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f331-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f331-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f331-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f331-2xl.png 1920w"></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -396,7 +396,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>To, co wymieniłam to nie “dzisiejszy wymysł”. To obowiązek. Obowiązek nasz - opiekunów - wobec naszych zwierząt. Jeśli decydujemy się zostać opiekunem zwierzęcia, nie wystarczy, że zapewnimy mu “kawałek podłogi” i podrzucimy do miski resztki z obiadu. Bycie opiekunem to coś więcej <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/media/posts/21/1f49a.png" alt="💚" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/21/responsive/1f49a-xs.png 640w ,https://dobowicz.github.io/media/posts/21/responsive/1f49a-sm.png 768w ,https://dobowicz.github.io/media/posts/21/responsive/1f49a-md.png 1024w ,https://dobowicz.github.io/media/posts/21/responsive/1f49a-lg.png 1366w ,https://dobowicz.github.io/media/posts/21/responsive/1f49a-xl.png 1600w ,https://dobowicz.github.io/media/posts/21/responsive/1f49a-2xl.png 1920w"> To od nas zależy życie tej istoty, jej dobrostan i samopoczucie.</p>
+<p>To, co wymieniłam to nie “dzisiejszy wymysł”. To obowiązek. Obowiązek nasz - opiekunów - wobec naszych zwierząt. Jeśli decydujemy się zostać opiekunem zwierzęcia, nie wystarczy, że zapewnimy mu “kawałek podłogi” i podrzucimy do miski resztki z obiadu. Bycie opiekunem to coś więcej <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/NaturaPsa/media/posts/21/1f49a.png" alt="💚" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f49a-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f49a-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f49a-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f49a-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f49a-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/21/responsive/1f49a-2xl.png 1920w"> To od nas zależy życie tej istoty, jej dobrostan i samopoczucie.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:quote -->
@@ -414,26 +414,26 @@
         <author>
             <name>Patrycja Dobosz</name>
         </author>
-        <link href="https://dobowicz.github.io/blog/najpierw-naucz-pozniej-wymagaj.html"/>
-        <id>https://dobowicz.github.io/blog/najpierw-naucz-pozniej-wymagaj.html</id>
-        <media:content url="https://dobowicz.github.io/media/posts/20/nauka-psa.png" medium="image" />
+        <link href="https://dobowicz.github.io/NaturaPsa/blog/najpierw-naucz-pozniej-wymagaj.html"/>
+        <id>https://dobowicz.github.io/NaturaPsa/blog/najpierw-naucz-pozniej-wymagaj.html</id>
+        <media:content url="https://dobowicz.github.io/NaturaPsa/media/posts/20/nauka-psa.png" medium="image" />
 
         <updated>2022-08-21T12:59:52+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://dobowicz.github.io/media/posts/20/nauka-psa.png" alt="" />
+                        <img src="https://dobowicz.github.io/NaturaPsa/media/posts/20/nauka-psa.png" alt="" />
                     Najpierw naucz, później wymagaj Psy bez problemu czytają naszą mowę ciała, mimikę, ton głosu, emocje. A jak jest z naszą komunikacją werbalną? Czy ona też jest dla nich taka “czytelna”? - Nie Wielu Opiekunów wymaga od swoich psów tego, że jeśli wydadzą mu komendę, to on ma ją wykonać. No okej, ale skąd pies ma wiedzieć, co oznacza np. “do mnie”? Zdarza Ci się denerwować na swojego psa za to,&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://dobowicz.github.io/media/posts/20/nauka-psa.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://dobowicz.github.io/NaturaPsa/media/posts/20/nauka-psa.png" class="type:primaryImage" alt="" /></p>
                 <!-- wp:paragraph -->
-<p>Najpierw naucz, później wymagaj <img loading="lazy" height="16" width="16" alt="👈" src="https://dobowicz.github.io/media/posts/20/1f448.png" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/20/responsive/1f448-xs.png 640w ,https://dobowicz.github.io/media/posts/20/responsive/1f448-sm.png 768w ,https://dobowicz.github.io/media/posts/20/responsive/1f448-md.png 1024w ,https://dobowicz.github.io/media/posts/20/responsive/1f448-lg.png 1366w ,https://dobowicz.github.io/media/posts/20/responsive/1f448-xl.png 1600w ,https://dobowicz.github.io/media/posts/20/responsive/1f448-2xl.png 1920w"></p>
+<p>Najpierw naucz, później wymagaj <img loading="lazy" height="16" width="16" alt="👈" src="https://dobowicz.github.io/NaturaPsa/media/posts/20/1f448.png" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f448-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f448-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f448-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f448-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f448-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f448-2xl.png 1920w"></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Psy bez problemu czytają naszą mowę ciała, mimikę, ton głosu, emocje. A jak jest z naszą komunikacją werbalną? Czy ona też jest dla nich taka “czytelna”? - Nie <img height="16" width="16" src="https://dobowicz.github.io/media/posts/20/1f643.png" alt="🙃" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/20/responsive/1f643-xs.png 640w ,https://dobowicz.github.io/media/posts/20/responsive/1f643-sm.png 768w ,https://dobowicz.github.io/media/posts/20/responsive/1f643-md.png 1024w ,https://dobowicz.github.io/media/posts/20/responsive/1f643-lg.png 1366w ,https://dobowicz.github.io/media/posts/20/responsive/1f643-xl.png 1600w ,https://dobowicz.github.io/media/posts/20/responsive/1f643-2xl.png 1920w"><br>Wielu Opiekunów wymaga od swoich psów tego, że jeśli wydadzą mu komendę, to on ma ją wykonać. No okej, ale skąd pies ma wiedzieć, co oznacza np. “do mnie”? <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/media/posts/20/1f9d0.png" alt="🧐" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/20/responsive/1f9d0-xs.png 640w ,https://dobowicz.github.io/media/posts/20/responsive/1f9d0-sm.png 768w ,https://dobowicz.github.io/media/posts/20/responsive/1f9d0-md.png 1024w ,https://dobowicz.github.io/media/posts/20/responsive/1f9d0-lg.png 1366w ,https://dobowicz.github.io/media/posts/20/responsive/1f9d0-xl.png 1600w ,https://dobowicz.github.io/media/posts/20/responsive/1f9d0-2xl.png 1920w"></p>
+<p>Psy bez problemu czytają naszą mowę ciała, mimikę, ton głosu, emocje. A jak jest z naszą komunikacją werbalną? Czy ona też jest dla nich taka “czytelna”? - Nie <img height="16" width="16" src="https://dobowicz.github.io/NaturaPsa/media/posts/20/1f643.png" alt="🙃" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f643-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f643-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f643-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f643-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f643-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f643-2xl.png 1920w"><br>Wielu Opiekunów wymaga od swoich psów tego, że jeśli wydadzą mu komendę, to on ma ją wykonać. No okej, ale skąd pies ma wiedzieć, co oznacza np. “do mnie”? <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/NaturaPsa/media/posts/20/1f9d0.png" alt="🧐" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f9d0-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f9d0-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f9d0-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f9d0-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f9d0-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f9d0-2xl.png 1920w"></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -459,7 +459,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Zdarza Ci się denerwować na swojego psa za to, że np. leży na kanapie i nie reaguje, kiedy powtarzasz dziesiąty raz “zejdź”? <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/media/posts/20/1f612.png" alt="😒" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/20/responsive/1f612-xs.png 640w ,https://dobowicz.github.io/media/posts/20/responsive/1f612-sm.png 768w ,https://dobowicz.github.io/media/posts/20/responsive/1f612-md.png 1024w ,https://dobowicz.github.io/media/posts/20/responsive/1f612-lg.png 1366w ,https://dobowicz.github.io/media/posts/20/responsive/1f612-xl.png 1600w ,https://dobowicz.github.io/media/posts/20/responsive/1f612-2xl.png 1920w"> A nauczyłeś/ nauczyłaś go, co oznacza to hasło? Jeśli pracowaliście nad tym i Twój pies mimo wszystko nie reaguje , pracujcie dalej lub zastanów się, czy nie warto zmienić czegoś w Waszym <a href="https://dobowicz.github.io/blog/potrzeby-psa-5.html" target="_blank" rel="noreferrer noopener">treningu</a>.</p>
+<p>Zdarza Ci się denerwować na swojego psa za to, że np. leży na kanapie i nie reaguje, kiedy powtarzasz dziesiąty raz “zejdź”? <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/NaturaPsa/media/posts/20/1f612.png" alt="😒" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f612-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f612-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f612-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f612-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f612-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f612-2xl.png 1920w"> A nauczyłeś/ nauczyłaś go, co oznacza to hasło? Jeśli pracowaliście nad tym i Twój pies mimo wszystko nie reaguje , pracujcie dalej lub zastanów się, czy nie warto zmienić czegoś w Waszym <a href="https://dobowicz.github.io/NaturaPsa/blog/potrzeby-psa-5.html" target="_blank" rel="noreferrer noopener">treningu</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -467,11 +467,11 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Bądź fair wobec swojego psa - najpierw naucz, później wymagaj <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/media/posts/20/1f49a.png" alt="💚" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/20/responsive/1f49a-xs.png 640w ,https://dobowicz.github.io/media/posts/20/responsive/1f49a-sm.png 768w ,https://dobowicz.github.io/media/posts/20/responsive/1f49a-md.png 1024w ,https://dobowicz.github.io/media/posts/20/responsive/1f49a-lg.png 1366w ,https://dobowicz.github.io/media/posts/20/responsive/1f49a-xl.png 1600w ,https://dobowicz.github.io/media/posts/20/responsive/1f49a-2xl.png 1920w"></p>
+<p>Bądź fair wobec swojego psa - najpierw naucz, później wymagaj <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/NaturaPsa/media/posts/20/1f49a.png" alt="💚" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f49a-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f49a-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f49a-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f49a-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f49a-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/1f49a-2xl.png 1920w"></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1276,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><figure class="wp-image-1276"><img loading="lazy" src="https://dobowicz.github.io/media/posts/20/cocker-spaniel.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/20/responsive/cocker-spaniel-xs.png 640w ,https://dobowicz.github.io/media/posts/20/responsive/cocker-spaniel-sm.png 768w ,https://dobowicz.github.io/media/posts/20/responsive/cocker-spaniel-md.png 1024w ,https://dobowicz.github.io/media/posts/20/responsive/cocker-spaniel-lg.png 1366w ,https://dobowicz.github.io/media/posts/20/responsive/cocker-spaniel-xl.png 1600w ,https://dobowicz.github.io/media/posts/20/responsive/cocker-spaniel-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-1276"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/20/cocker-spaniel.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/cocker-spaniel-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/cocker-spaniel-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/cocker-spaniel-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/cocker-spaniel-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/cocker-spaniel-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/20/responsive/cocker-spaniel-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
             ]]>
         </content>
@@ -481,26 +481,26 @@
         <author>
             <name>Patrycja Dobosz</name>
         </author>
-        <link href="https://dobowicz.github.io/blog/konsekwencja-w-zyciu-z-psem.html"/>
-        <id>https://dobowicz.github.io/blog/konsekwencja-w-zyciu-z-psem.html</id>
-        <media:content url="https://dobowicz.github.io/media/posts/19/konsekwencja-w-zyciu-z-psem.png" medium="image" />
+        <link href="https://dobowicz.github.io/NaturaPsa/blog/konsekwencja-w-zyciu-z-psem.html"/>
+        <id>https://dobowicz.github.io/NaturaPsa/blog/konsekwencja-w-zyciu-z-psem.html</id>
+        <media:content url="https://dobowicz.github.io/NaturaPsa/media/posts/19/konsekwencja-w-zyciu-z-psem.png" medium="image" />
 
         <updated>2022-08-21T12:55:28+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://dobowicz.github.io/media/posts/19/konsekwencja-w-zyciu-z-psem.png" alt="" />
+                        <img src="https://dobowicz.github.io/NaturaPsa/media/posts/19/konsekwencja-w-zyciu-z-psem.png" alt="" />
                     Konsekwencja w życiu z psem Konsekwentnie rozpoczynamy nową serię - tym razem o nas, dla nas, świadomych opiekunów psów (z czego nasze czworonogi mam nadzieję, nieźle skorzystają ) A jak konsekwentnie to i o konsekwencji trochę będzie. Temat bardzo ważny, z którego każdy opiekun psa powinien zdawać sobie sprawę. Konsekwencja, czyli postępowanie według określonych reguł czy zasad ułatwia nam i naszym psiakom żyć w pewnej harmonii Ustalenie zasad panujących w&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://dobowicz.github.io/media/posts/19/konsekwencja-w-zyciu-z-psem.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://dobowicz.github.io/NaturaPsa/media/posts/19/konsekwencja-w-zyciu-z-psem.png" class="type:primaryImage" alt="" /></p>
                 <!-- wp:paragraph -->
 <p>Konsekwencja w życiu z psem</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p>Konsekwentnie rozpoczynamy nową serię - tym razem o nas, dla nas, świadomych opiekunów psów (z czego nasze czworonogi mam nadzieję, nieźle skorzystają <img height="16" width="16" src="https://dobowicz.github.io/media/posts/19/1f604.png" alt="😄" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/19/responsive/1f604-xs.png 640w ,https://dobowicz.github.io/media/posts/19/responsive/1f604-sm.png 768w ,https://dobowicz.github.io/media/posts/19/responsive/1f604-md.png 1024w ,https://dobowicz.github.io/media/posts/19/responsive/1f604-lg.png 1366w ,https://dobowicz.github.io/media/posts/19/responsive/1f604-xl.png 1600w ,https://dobowicz.github.io/media/posts/19/responsive/1f604-2xl.png 1920w">) A jak konsekwentnie to i o konsekwencji trochę będzie. Temat bardzo ważny, z którego każdy opiekun psa powinien zdawać sobie sprawę. Konsekwencja, czyli postępowanie według określonych reguł czy zasad ułatwia nam i naszym psiakom żyć w pewnej harmonii <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/media/posts/19/1f9d8.png" alt="🧘" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/19/responsive/1f9d8-xs.png 640w ,https://dobowicz.github.io/media/posts/19/responsive/1f9d8-sm.png 768w ,https://dobowicz.github.io/media/posts/19/responsive/1f9d8-md.png 1024w ,https://dobowicz.github.io/media/posts/19/responsive/1f9d8-lg.png 1366w ,https://dobowicz.github.io/media/posts/19/responsive/1f9d8-xl.png 1600w ,https://dobowicz.github.io/media/posts/19/responsive/1f9d8-2xl.png 1920w"></p>
+<p>Konsekwentnie rozpoczynamy nową serię - tym razem o nas, dla nas, świadomych opiekunów psów (z czego nasze czworonogi mam nadzieję, nieźle skorzystają <img height="16" width="16" src="https://dobowicz.github.io/NaturaPsa/media/posts/19/1f604.png" alt="😄" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f604-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f604-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f604-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f604-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f604-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f604-2xl.png 1920w">) A jak konsekwentnie to i o konsekwencji trochę będzie. Temat bardzo ważny, z którego każdy opiekun psa powinien zdawać sobie sprawę. Konsekwencja, czyli postępowanie według określonych reguł czy zasad ułatwia nam i naszym psiakom żyć w pewnej harmonii <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/NaturaPsa/media/posts/19/1f9d8.png" alt="🧘" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f9d8-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f9d8-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f9d8-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f9d8-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f9d8-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f9d8-2xl.png 1920w"></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -508,7 +508,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Ustalenie zasad panujących w życiu codziennym z psem, zasad w domu i przestrzeganie ich przez wszystkich domowników, pozytywnie wpływa na <a href="https://dobowicz.github.io/blog/potrzeby-psa-1.html" target="_blank" rel="noreferrer noopener">poczucie bezpieczeństwa psa</a>.</p>
+<p>Ustalenie zasad panujących w życiu codziennym z psem, zasad w domu i przestrzeganie ich przez wszystkich domowników, pozytywnie wpływa na <a href="https://dobowicz.github.io/NaturaPsa/blog/potrzeby-psa-1.html" target="_blank" rel="noreferrer noopener">poczucie bezpieczeństwa psa</a>.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -516,7 +516,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Ustalając zasady, pamiętajmy o naturalnych potrzebach naszego psa, jego upodobaniach, osobowości <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/media/posts/19/1f9e1.png" alt="🧡" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/19/responsive/1f9e1-xs.png 640w ,https://dobowicz.github.io/media/posts/19/responsive/1f9e1-sm.png 768w ,https://dobowicz.github.io/media/posts/19/responsive/1f9e1-md.png 1024w ,https://dobowicz.github.io/media/posts/19/responsive/1f9e1-lg.png 1366w ,https://dobowicz.github.io/media/posts/19/responsive/1f9e1-xl.png 1600w ,https://dobowicz.github.io/media/posts/19/responsive/1f9e1-2xl.png 1920w"> Przykładowo, zabronienie <a href="https://www.instagram.com/p/CSRULsOs_-d/" target="_blank" rel="noreferrer noopener">węszenia</a> podczas spaceru nie jest konsekwencją, a niezrozumieniem potrzeb własnego psa.</p>
+<p>Ustalając zasady, pamiętajmy o naturalnych potrzebach naszego psa, jego upodobaniach, osobowości <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/NaturaPsa/media/posts/19/1f9e1.png" alt="🧡" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f9e1-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f9e1-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f9e1-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f9e1-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f9e1-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f9e1-2xl.png 1920w"> Przykładowo, zabronienie <a href="https://www.instagram.com/p/CSRULsOs_-d/" target="_blank" rel="noreferrer noopener">węszenia</a> podczas spaceru nie jest konsekwencją, a niezrozumieniem potrzeb własnego psa.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -524,7 +524,7 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Psy uczą się przez konsekwencje zdarzeń. To co ich spotyka, co dzieje się po danej sytuacji, sprawia, że zachowanie wzmacnia się lub wygasza.<br>Brak ustalonych jasnych zasad panujących we wspólnym życiu z psem prowadzi do zaburzonej możlwiości uczenia się <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/media/posts/19/1f92f.png" alt="🤯" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/19/responsive/1f92f-xs.png 640w ,https://dobowicz.github.io/media/posts/19/responsive/1f92f-sm.png 768w ,https://dobowicz.github.io/media/posts/19/responsive/1f92f-md.png 1024w ,https://dobowicz.github.io/media/posts/19/responsive/1f92f-lg.png 1366w ,https://dobowicz.github.io/media/posts/19/responsive/1f92f-xl.png 1600w ,https://dobowicz.github.io/media/posts/19/responsive/1f92f-2xl.png 1920w"></p>
+<p>Psy uczą się przez konsekwencje zdarzeń. To co ich spotyka, co dzieje się po danej sytuacji, sprawia, że zachowanie wzmacnia się lub wygasza.<br>Brak ustalonych jasnych zasad panujących we wspólnym życiu z psem prowadzi do zaburzonej możlwiości uczenia się <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/NaturaPsa/media/posts/19/1f92f.png" alt="🤯" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f92f-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f92f-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f92f-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f92f-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f92f-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f92f-2xl.png 1920w"></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:heading {"level":3} -->
@@ -540,11 +540,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Bądźmy konsekwentni. Ustalając zasady czy np. pies może spać z nami w łóżku, jeść przy stole, znosić do domu patyki itd. Skonsultujmy to ze wszystkimi domownikami. Pamiętajmy także o potrzebach naszych czworonogów. To jak wygląda ich życie, jest całkowicie zależne od nas. Niech będzie to dobre życie, takie, którego sami by sobie nawet nie wyśnili <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/media/posts/19/1f604.png" alt="😄" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/19/responsive/1f604-xs.png 640w ,https://dobowicz.github.io/media/posts/19/responsive/1f604-sm.png 768w ,https://dobowicz.github.io/media/posts/19/responsive/1f604-md.png 1024w ,https://dobowicz.github.io/media/posts/19/responsive/1f604-lg.png 1366w ,https://dobowicz.github.io/media/posts/19/responsive/1f604-xl.png 1600w ,https://dobowicz.github.io/media/posts/19/responsive/1f604-2xl.png 1920w"> </p>
+<p>Bądźmy konsekwentni. Ustalając zasady czy np. pies może spać z nami w łóżku, jeść przy stole, znosić do domu patyki itd. Skonsultujmy to ze wszystkimi domownikami. Pamiętajmy także o potrzebach naszych czworonogów. To jak wygląda ich życie, jest całkowicie zależne od nas. Niech będzie to dobre życie, takie, którego sami by sobie nawet nie wyśnili <img loading="lazy" height="16" width="16" src="https://dobowicz.github.io/NaturaPsa/media/posts/19/1f604.png" alt="😄" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f604-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f604-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f604-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f604-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f604-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/1f604-2xl.png 1920w"> </p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1278,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><figure class="wp-image-1278"><img loading="lazy" src="https://dobowicz.github.io/media/posts/19/labrador.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/19/responsive/labrador-xs.png 640w ,https://dobowicz.github.io/media/posts/19/responsive/labrador-sm.png 768w ,https://dobowicz.github.io/media/posts/19/responsive/labrador-md.png 1024w ,https://dobowicz.github.io/media/posts/19/responsive/labrador-lg.png 1366w ,https://dobowicz.github.io/media/posts/19/responsive/labrador-xl.png 1600w ,https://dobowicz.github.io/media/posts/19/responsive/labrador-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-1278"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/19/labrador.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/labrador-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/labrador-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/labrador-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/labrador-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/labrador-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/19/responsive/labrador-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
             ]]>
         </content>
@@ -554,20 +554,20 @@
         <author>
             <name>Patrycja Dobosz</name>
         </author>
-        <link href="https://dobowicz.github.io/blog/jak-zachowywac-sie-wobec-psa-spotkanego-na-spacerze.html"/>
-        <id>https://dobowicz.github.io/blog/jak-zachowywac-sie-wobec-psa-spotkanego-na-spacerze.html</id>
-        <media:content url="https://dobowicz.github.io/media/posts/18/pies-na-spacerze.png" medium="image" />
+        <link href="https://dobowicz.github.io/NaturaPsa/blog/jak-zachowywac-sie-wobec-psa-spotkanego-na-spacerze.html"/>
+        <id>https://dobowicz.github.io/NaturaPsa/blog/jak-zachowywac-sie-wobec-psa-spotkanego-na-spacerze.html</id>
+        <media:content url="https://dobowicz.github.io/NaturaPsa/media/posts/18/pies-na-spacerze.png" medium="image" />
 
         <updated>2022-05-06T11:49:21+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://dobowicz.github.io/media/posts/18/pies-na-spacerze.png" alt="" />
+                        <img src="https://dobowicz.github.io/NaturaPsa/media/posts/18/pies-na-spacerze.png" alt="" />
                     Jak zachowywać się wobec psa spotkanego na spacerze? Pamiętajmy o tym, że ziemia nie jest naszą własnością i jeśli oczekujemy od innych istot poszanowania nas, tak samo my powinniśmy szanować je ✌️ Wyobraź sobie następującą sytuację: Rodzic idzie z dzieckiem na plac zabaw. Po drodze mijają obcą osobę. Osoba ta widząc dziecko, zaczyna się uśmiechać, cmoka i mówi “Jeju, jaki śliczny chłopiec/dziewczynka” jednocześnie zatrzymuje się i zaczyna czochrać dziecko po&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://dobowicz.github.io/media/posts/18/pies-na-spacerze.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://dobowicz.github.io/NaturaPsa/media/posts/18/pies-na-spacerze.png" class="type:primaryImage" alt="" /></p>
                 <!-- wp:paragraph -->
 <p>Jak zachowywać się wobec psa spotkanego na spacerze? Pamiętajmy o tym, że ziemia nie jest naszą własnością i jeśli oczekujemy od innych istot poszanowania nas, tak samo my powinniśmy szanować je ✌️</p>
 <!-- /wp:paragraph -->
@@ -578,7 +578,7 @@
 
 <!-- wp:list -->
 <ul><!-- wp:list-item -->
-<li>Nie idź szybkim krokiem na wprost psa - w języku psów jest to <a href="https://www.instagram.com/p/Co9o6a4oSyw/" target="_blank" rel="noreferrer noopener">sygnał grożący</a>, może więc odebrać Cię jako <a href="https://dobowicz.github.io/blog/potrzeby-psa-1.html" target="_blank" rel="noreferrer noopener">niebezpieczeństwo</a></li>
+<li>Nie idź szybkim krokiem na wprost psa - w języku psów jest to <a href="https://www.instagram.com/p/Co9o6a4oSyw/" target="_blank" rel="noreferrer noopener">sygnał grożący</a>, może więc odebrać Cię jako <a href="https://dobowicz.github.io/NaturaPsa/blog/potrzeby-psa-1.html" target="_blank" rel="noreferrer noopener">niebezpieczeństwo</a></li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -611,7 +611,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1286,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><figure class="wp-image-1286"><img loading="lazy" src="https://dobowicz.github.io/media/posts/18/spacer-z-psem.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/18/responsive/spacer-z-psem-xs.png 640w ,https://dobowicz.github.io/media/posts/18/responsive/spacer-z-psem-sm.png 768w ,https://dobowicz.github.io/media/posts/18/responsive/spacer-z-psem-md.png 1024w ,https://dobowicz.github.io/media/posts/18/responsive/spacer-z-psem-lg.png 1366w ,https://dobowicz.github.io/media/posts/18/responsive/spacer-z-psem-xl.png 1600w ,https://dobowicz.github.io/media/posts/18/responsive/spacer-z-psem-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-1286"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/18/spacer-z-psem.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/18/responsive/spacer-z-psem-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/18/responsive/spacer-z-psem-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/18/responsive/spacer-z-psem-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/18/responsive/spacer-z-psem-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/18/responsive/spacer-z-psem-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/18/responsive/spacer-z-psem-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
             ]]>
         </content>
@@ -621,20 +621,20 @@
         <author>
             <name>Patrycja Dobosz</name>
         </author>
-        <link href="https://dobowicz.github.io/blog/szanuj-innych-opiekunow-i-ich-czworonogi.html"/>
-        <id>https://dobowicz.github.io/blog/szanuj-innych-opiekunow-i-ich-czworonogi.html</id>
-        <media:content url="https://dobowicz.github.io/media/posts/17/dwapsynasmyczach.png" medium="image" />
+        <link href="https://dobowicz.github.io/NaturaPsa/blog/szanuj-innych-opiekunow-i-ich-czworonogi.html"/>
+        <id>https://dobowicz.github.io/NaturaPsa/blog/szanuj-innych-opiekunow-i-ich-czworonogi.html</id>
+        <media:content url="https://dobowicz.github.io/NaturaPsa/media/posts/17/dwapsynasmyczach.png" medium="image" />
 
         <updated>2022-05-04T11:43:07+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://dobowicz.github.io/media/posts/17/dwapsynasmyczach.png" alt="" />
+                        <img src="https://dobowicz.github.io/NaturaPsa/media/posts/17/dwapsynasmyczach.png" alt="" />
                     Szanuj innych opiekunów i ich czworonogi ❣️ Wychodząc na spacer z naszym psem, musimy pamiętać, że jest to także przestrzeń dla innych opiekunów i ich czworonogów. Wielu opiekunów psów, zapytani o to, co najbardziej przeszkadza im podczas spacerów ze swoimi, psiakami odpowiadają, że inni opiekunowie z psami, którzy nie wiedzą, jak powinni zachować się w codziennych sytuacjach 😶 Szanujmy wzajemnie swoją przestrzeń, jak i przestrzeń naszych i obcych psiaków. Czym&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://dobowicz.github.io/media/posts/17/dwapsynasmyczach.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://dobowicz.github.io/NaturaPsa/media/posts/17/dwapsynasmyczach.png" class="type:primaryImage" alt="" /></p>
                 <!-- wp:paragraph -->
 <p>Szanuj innych opiekunów i ich czworonogi ❣️</p>
 <!-- /wp:paragraph -->
@@ -653,7 +653,7 @@
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
-<li>Zanim zaczniesz puszczać swojego psiaka ze smyczy, trenuj przywołanie na <a href="https://dobowicz.github.io/blog/spacer-z-psem-2.html" target="_blank" rel="noreferrer noopener">lince</a> i/lub na treningach pod okiem trenera 👀</li>
+<li>Zanim zaczniesz puszczać swojego psiaka ze smyczy, trenuj przywołanie na <a href="https://dobowicz.github.io/NaturaPsa/blog/spacer-z-psem-2.html" target="_blank" rel="noreferrer noopener">lince</a> i/lub na treningach pod okiem trenera 👀</li>
 <!-- /wp:list-item -->
 
 <!-- wp:list-item -->
@@ -678,7 +678,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1290,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><figure class="wp-image-1290"><img loading="lazy" src="https://dobowicz.github.io/media/posts/17/spotkanie-psow-na-spacerze.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/17/responsive/spotkanie-psow-na-spacerze-xs.png 640w ,https://dobowicz.github.io/media/posts/17/responsive/spotkanie-psow-na-spacerze-sm.png 768w ,https://dobowicz.github.io/media/posts/17/responsive/spotkanie-psow-na-spacerze-md.png 1024w ,https://dobowicz.github.io/media/posts/17/responsive/spotkanie-psow-na-spacerze-lg.png 1366w ,https://dobowicz.github.io/media/posts/17/responsive/spotkanie-psow-na-spacerze-xl.png 1600w ,https://dobowicz.github.io/media/posts/17/responsive/spotkanie-psow-na-spacerze-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-1290"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/17/spotkanie-psow-na-spacerze.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/17/responsive/spotkanie-psow-na-spacerze-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/17/responsive/spotkanie-psow-na-spacerze-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/17/responsive/spotkanie-psow-na-spacerze-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/17/responsive/spotkanie-psow-na-spacerze-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/17/responsive/spotkanie-psow-na-spacerze-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/17/responsive/spotkanie-psow-na-spacerze-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
             ]]>
         </content>
@@ -688,20 +688,20 @@
         <author>
             <name>Patrycja Dobosz</name>
         </author>
-        <link href="https://dobowicz.github.io/blog/aktywnosci-na-spacerach.html"/>
-        <id>https://dobowicz.github.io/blog/aktywnosci-na-spacerach.html</id>
-        <media:content url="https://dobowicz.github.io/media/posts/16/aktywnosci-z-psem-na-spacerze.png" medium="image" />
+        <link href="https://dobowicz.github.io/NaturaPsa/blog/aktywnosci-na-spacerach.html"/>
+        <id>https://dobowicz.github.io/NaturaPsa/blog/aktywnosci-na-spacerach.html</id>
+        <media:content url="https://dobowicz.github.io/NaturaPsa/media/posts/16/aktywnosci-z-psem-na-spacerze.png" medium="image" />
 
         <updated>2022-05-04T11:36:58+02:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://dobowicz.github.io/media/posts/16/aktywnosci-z-psem-na-spacerze.png" alt="" />
+                        <img src="https://dobowicz.github.io/NaturaPsa/media/posts/16/aktywnosci-z-psem-na-spacerze.png" alt="" />
                     Aktywności na spacerach 🌳 Jak zapewnić psu ciekawy spacer, po którym psiak będzie spełniony i szczęśliwy? - To zależy 😅 Każdy pies jest inny. Jeden uwielbia zabawy szarpakiem, inny jest zadaniowcem, a jeszcze inny woli eksplorację i węszenie każdego centymetra napotkanego krzaczka. I to właśnie do indywidualnych upodobań (a także do stanu zdrowia) powinniśmy dobierać aktywności, jakie fundujemy naszym psom poza domem. Możliwości jest sporo, a to tylko kilka przykładów.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://dobowicz.github.io/media/posts/16/aktywnosci-z-psem-na-spacerze.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://dobowicz.github.io/NaturaPsa/media/posts/16/aktywnosci-z-psem-na-spacerze.png" class="type:primaryImage" alt="" /></p>
                 <!-- wp:paragraph -->
 <p>Aktywności na spacerach 🌳</p>
 <!-- /wp:paragraph -->
@@ -753,7 +753,7 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1292,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><figure class="wp-image-1292"><img loading="lazy" src="https://dobowicz.github.io/media/posts/16/co-robic-z-psem-na-spacerze.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/16/responsive/co-robic-z-psem-na-spacerze-xs.png 640w ,https://dobowicz.github.io/media/posts/16/responsive/co-robic-z-psem-na-spacerze-sm.png 768w ,https://dobowicz.github.io/media/posts/16/responsive/co-robic-z-psem-na-spacerze-md.png 1024w ,https://dobowicz.github.io/media/posts/16/responsive/co-robic-z-psem-na-spacerze-lg.png 1366w ,https://dobowicz.github.io/media/posts/16/responsive/co-robic-z-psem-na-spacerze-xl.png 1600w ,https://dobowicz.github.io/media/posts/16/responsive/co-robic-z-psem-na-spacerze-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-1292"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/16/co-robic-z-psem-na-spacerze.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/16/responsive/co-robic-z-psem-na-spacerze-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/16/responsive/co-robic-z-psem-na-spacerze-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/16/responsive/co-robic-z-psem-na-spacerze-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/16/responsive/co-robic-z-psem-na-spacerze-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/16/responsive/co-robic-z-psem-na-spacerze-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/16/responsive/co-robic-z-psem-na-spacerze-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
             ]]>
         </content>
@@ -763,22 +763,22 @@
         <author>
             <name>Patrycja Dobosz</name>
         </author>
-        <link href="https://dobowicz.github.io/blog/psie-wybiegi.html"/>
-        <id>https://dobowicz.github.io/blog/psie-wybiegi.html</id>
-        <media:content url="https://dobowicz.github.io/media/posts/15/psi-wybieg.png" medium="image" />
+        <link href="https://dobowicz.github.io/NaturaPsa/blog/psie-wybiegi.html"/>
+        <id>https://dobowicz.github.io/NaturaPsa/blog/psie-wybiegi.html</id>
+        <media:content url="https://dobowicz.github.io/NaturaPsa/media/posts/15/psi-wybieg.png" medium="image" />
 
         <updated>2022-03-12T12:18:00+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://dobowicz.github.io/media/posts/15/psi-wybieg.png" alt="" />
+                        <img src="https://dobowicz.github.io/NaturaPsa/media/posts/15/psi-wybieg.png" alt="" />
                     Psie wybiegi stają się coraz popularniejsze. Można je spotkać już nawet w wielu małych miasteczkach. Czy psi wybieg to dobre miejsce na “spacer” z psem? Odpowiedź brzmi “i tak i nie”: Często obserwuję psy na wybiegach i interakcje między nimi. Szczerze mówiąc, mogę policzyć na palcach jednej ręki, ile razy zaobserwowałam fajne interakcje między psami. Większość psów, które się nie znają, nie czują się komfortowo na ograniczonej, niewielkiej przestrzeni z&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://dobowicz.github.io/media/posts/15/psi-wybieg.png" class="type:primaryImage" alt="" /></p>
+                    <p><img src="https://dobowicz.github.io/NaturaPsa/media/posts/15/psi-wybieg.png" class="type:primaryImage" alt="" /></p>
                 <!-- wp:image {"id":3138,"sizeSlug":"full","linkDestination":"none"} -->
-<figure class="wp-block-image size-full"><figure class="wp-image-3138"><img loading="lazy" src="https://dobowicz.github.io/media/posts/15/wybieg-dla-psow.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/15/responsive/wybieg-dla-psow-xs.png 640w ,https://dobowicz.github.io/media/posts/15/responsive/wybieg-dla-psow-sm.png 768w ,https://dobowicz.github.io/media/posts/15/responsive/wybieg-dla-psow-md.png 1024w ,https://dobowicz.github.io/media/posts/15/responsive/wybieg-dla-psow-lg.png 1366w ,https://dobowicz.github.io/media/posts/15/responsive/wybieg-dla-psow-xl.png 1600w ,https://dobowicz.github.io/media/posts/15/responsive/wybieg-dla-psow-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-full"><figure class="wp-image-3138"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/15/wybieg-dla-psow.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/15/responsive/wybieg-dla-psow-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/15/responsive/wybieg-dla-psow-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/15/responsive/wybieg-dla-psow-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/15/responsive/wybieg-dla-psow-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/15/responsive/wybieg-dla-psow-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/15/responsive/wybieg-dla-psow-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -828,11 +828,11 @@
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Często obserwuję psy na wybiegach i interakcje między nimi. Szczerze mówiąc, mogę policzyć na palcach jednej ręki, ile razy zaobserwowałam fajne interakcje między psami. Większość psów, które się nie znają, nie czują się komfortowo na ograniczonej, niewielkiej przestrzeni z innymi psami. Jeśli chcemy poznać ze sobą psy, udajmy się na wspólny spacer w bezpiecznym miejscu. Nie wzdłuż ulicy na smyczy o długości 1m. Super, że wielu opiekunów dba o to, aby ich pies miał kontakt z innymi psami, ale pamiętajmy - najważniejsza w tym wszystkim jest jakość tych kontaktów. A psa na spacerze możesz zmęczyć i zaspokoić jego naturalne potrzeby w inny sposób. W jaki? o tym w następnym <a href="https://dobowicz.github.io/blog/aktywnosci-na-spacerach.html" target="_blank" rel="noreferrer noopener">wpisie</a>💚</p>
+<p>Często obserwuję psy na wybiegach i interakcje między nimi. Szczerze mówiąc, mogę policzyć na palcach jednej ręki, ile razy zaobserwowałam fajne interakcje między psami. Większość psów, które się nie znają, nie czują się komfortowo na ograniczonej, niewielkiej przestrzeni z innymi psami. Jeśli chcemy poznać ze sobą psy, udajmy się na wspólny spacer w bezpiecznym miejscu. Nie wzdłuż ulicy na smyczy o długości 1m. Super, że wielu opiekunów dba o to, aby ich pies miał kontakt z innymi psami, ale pamiętajmy - najważniejsza w tym wszystkim jest jakość tych kontaktów. A psa na spacerze możesz zmęczyć i zaspokoić jego naturalne potrzeby w inny sposób. W jaki? o tym w następnym <a href="https://dobowicz.github.io/NaturaPsa/blog/aktywnosci-na-spacerach.html" target="_blank" rel="noreferrer noopener">wpisie</a>💚</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"id":1296,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><figure class="wp-image-1296"><img loading="lazy" src="https://dobowicz.github.io/media/posts/15/psie-wybiegi.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/media/posts/15/responsive/psie-wybiegi-xs.png 640w ,https://dobowicz.github.io/media/posts/15/responsive/psie-wybiegi-sm.png 768w ,https://dobowicz.github.io/media/posts/15/responsive/psie-wybiegi-md.png 1024w ,https://dobowicz.github.io/media/posts/15/responsive/psie-wybiegi-lg.png 1366w ,https://dobowicz.github.io/media/posts/15/responsive/psie-wybiegi-xl.png 1600w ,https://dobowicz.github.io/media/posts/15/responsive/psie-wybiegi-2xl.png 1920w"></figure></figure>
+<figure class="wp-block-image size-large"><figure class="wp-image-1296"><img loading="lazy" src="https://dobowicz.github.io/NaturaPsa/media/posts/15/psie-wybiegi.png" alt=""  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dobowicz.github.io/NaturaPsa/media/posts/15/responsive/psie-wybiegi-xs.png 640w ,https://dobowicz.github.io/NaturaPsa/media/posts/15/responsive/psie-wybiegi-sm.png 768w ,https://dobowicz.github.io/NaturaPsa/media/posts/15/responsive/psie-wybiegi-md.png 1024w ,https://dobowicz.github.io/NaturaPsa/media/posts/15/responsive/psie-wybiegi-lg.png 1366w ,https://dobowicz.github.io/NaturaPsa/media/posts/15/responsive/psie-wybiegi-xl.png 1600w ,https://dobowicz.github.io/NaturaPsa/media/posts/15/responsive/psie-wybiegi-2xl.png 1920w"></figure></figure>
 <!-- /wp:image -->
             ]]>
         </content>
