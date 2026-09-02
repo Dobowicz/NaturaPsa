@@ -4,7 +4,7 @@
 //  In Publii preview mode it auto-switches to localhost:5000.
 // ============================================================
 var FORM_BASE_URL = 'https://backend.naturapsa.pl';
-var FORM_PREVIEW_URL = 'http://localhost:5000';
+var FORM_PREVIEW_URL = 'http://localhost:19331';
 
 var activeBase = (window.PUBLII_PREVIEW && FORM_PREVIEW_URL) ? FORM_PREVIEW_URL : FORM_BASE_URL;
 
@@ -85,7 +85,7 @@ document.addEventListener('DOMContentLoaded', function () {
             var submitBtn = form.querySelector('.submit-btn');
             if (submitBtn) {
                 submitBtn.disabled = true;
-                submitBtn.textContent = 'Wysylanie...';
+                submitBtn.textContent = 'Wysyłanie...';
             }
 
             if (typeof grecaptcha !== 'undefined' && window.RECAPTCHA_SITE_KEY) {
@@ -133,14 +133,14 @@ document.addEventListener('DOMContentLoaded', function () {
             } else {
                 if (submitBtn) {
                     submitBtn.disabled = false;
-                    submitBtn.textContent = 'Wyslij';
+                    submitBtn.textContent = 'Wyślij';
                 }
 
                 var summary = container.querySelector('.error-summary');
                 if (summary) {
                     var summaryText = summary.querySelector('p');
                     if (summaryText) {
-                        summaryText.textContent = 'Nie udalo sie wyslac formularza. Sprobuj ponownie za chwile.';
+                        summaryText.textContent = 'Nie udało się wysłać formularza. Spróbuj ponownie później.';
                     }
                     summary.classList.add('is-visible');
                 }
