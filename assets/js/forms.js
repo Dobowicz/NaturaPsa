@@ -107,6 +107,9 @@ document.addEventListener('DOMContentLoaded', function () {
             if (typeof grecaptcha !== 'undefined' && window.RECAPTCHA_SITE_KEY) {
                 grecaptcha.ready(function () {
                     grecaptcha.execute(window.RECAPTCHA_SITE_KEY, { action: 'submit' }).then(function (token) {
+                        var oldInput = form.querySelector('input[name="g-recaptcha-response"]');
+                        if (oldInput) oldInput.remove();
+
                         var hiddenInput = document.createElement('input');
                         hiddenInput.type = 'hidden';
                         hiddenInput.name = 'g-recaptcha-response';
