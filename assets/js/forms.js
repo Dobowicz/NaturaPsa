@@ -8,6 +8,22 @@ var FORM_PREVIEW_URL = 'http://localhost:19331';
 
 var activeBase = (window.PUBLII_PREVIEW && FORM_PREVIEW_URL) ? FORM_PREVIEW_URL : FORM_BASE_URL;
 
+var FORM_ENDPOINTS = {
+    'form-live-consultation': '/umow-spotkanie-na-zywo',
+    'form-online-consultation': '/umow-spotkanie-online',
+    'form-social-walk': '/spacer-socjalizacyjny',
+    'form-contact': '/contact',
+    'form-separation-therapy': '/lek-separacyjny'
+};
+
+function submitFormById(formId) {
+    var form = document.getElementById(formId);
+    if (form) {
+        var event = new Event('submit', { cancelable: true });
+        form.dispatchEvent(event);
+    }
+}
+
 document.addEventListener('DOMContentLoaded', function () {
     var wrapper = document.querySelector('.consultation-form-wrapper');
     if (!wrapper) return;
@@ -106,8 +122,8 @@ document.addEventListener('DOMContentLoaded', function () {
     });
 
     function sendForm(form, container, submitBtn) {
-        var action = form.getAttribute('action');
-        action = action.replace(/^https?:\/\/backend\.naturapsa\.pl/, activeBase);
+        var endpoint = FORM_ENDPOINTS[form.id] || '';
+        var action = activeBase + endpoint;
         var request = new XMLHttpRequest();
         request.open('POST', action);
 
