@@ -277,7 +277,7 @@ document.addEventListener('DOMContentLoaded', function () {
             var checked = container.querySelector('input[name="' + name + '"]:checked');
             if (!checked) {
                 isValid = false;
-                setFieldError(field, 'Wybierz jedna z opcji');
+                setFieldError(field, 'Wybierz jedną z opcji');
             }
         });
 
@@ -286,7 +286,7 @@ document.addEventListener('DOMContentLoaded', function () {
             var min = parseInt(textarea.getAttribute('minlength'), 10);
             if (textarea.required && textarea.value && textarea.value.length < min) {
                 isValid = false;
-                setFieldError(textarea.closest('.form-field'), 'Minimalna ilosc znakow to ' + min);
+                setFieldError(textarea.closest('.form-field'), 'Minimalna ilość znaków to ' + min);
             }
         });
 
